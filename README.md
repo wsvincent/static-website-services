@@ -25,9 +25,10 @@
 
 ### Hosting
 
+- [Aerobatic](https://www.aerobatic.com/) - Static hosting for Bitbucket.
 - [Amazon S3](https://aws.amazon.com/s3/) - Granddaddy of static hosting.
 - [Github Pages](https://pages.github.com/) - Free Github hosting.
-- [surge](https://surge.sh/) - Free single-command publishing.
+- [surge](https://surge.sh/) - Single-command publishing.
 - [GitLab Pages](https://pages.gitlab.io/) - Free GitLab hosting.
 
 ### Hosting + CMS for non-developers
