@@ -49,9 +49,17 @@
 
 ## Search
 
-- [Google Custom Search Engine](https://cse.google.com/cse/) - Custom Google Search for your site.
 - [Algolia](https://www.algolia.com/) - Fast, powerful search-as-a-service.
+- [Google Custom Search Engine](https://cse.google.com/cse/) - Custom Google Search for your site.
 
+## Static Site Generators
+
+- [Jekyll](http://jekyllrb.com/) - Ruby-powered, popular, many plug-ins.
+- [Hugo](http://gohugo.io/) - Go-powered, fast.
+- [Pelican](http://blog.getpelican.com/) - Python-powered
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - ReactJS-powered.
+- [Cactus](https://github.com/eudicots/Cactus) - Python and Django-powered.
+- [Lektor](https://www.getlektor.com/) - Python, file-based, CMS
 ----
 
 ## License
