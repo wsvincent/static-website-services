@@ -37,6 +37,7 @@
 - [Cloud Cannon](http://cloudcannon.com/) - Cloud CMS for Jekyll.
 - [Forestry](https://forestry.io/) - CMS for Jekyll/Hugo sites.
 - [Netlify](https://www.netlify.com/) - Continuous deployment, CDN, and CMS.
+- [Pulse](https://www.pulsecms.com/) - Flat-file CMS.
 
 ### Maps
 
